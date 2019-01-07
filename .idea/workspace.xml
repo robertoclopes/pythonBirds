@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d78de5f5-b4ee-4e18-84df-b6652816d7e1" name="Default Changelist" comment="" />
+    <list default="true" id="d78de5f5-b4ee-4e18-84df-b6652816d7e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +14,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
+    <option name="x" value="644" />
+    <option name="width" value="722" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,10 +67,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="741" extended-state="4" />
+    <frame x="644" y="0" width="722" height="741" extended-state="4" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.472103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.7358185" />
